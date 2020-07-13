@@ -15,4 +15,4 @@ Seguem os requisitos funcionais ou features:
 * [Criar Conta](criar_conta.feature) - Feature de criação de uma nova conta no banco
 * [Depósito](deposito.feature) - Feature de realização da operação de depósito em conta.
 * [Saque](saque.feature) - Feature de realização da operação de saque em conta.
-* [Tranferência](transferencia.feature) - Feature de realização da operação transferência de valores entre contas.
+* [Transferência](transferencia.feature) - Feature de realização da operação transferência de valores entre contas.
