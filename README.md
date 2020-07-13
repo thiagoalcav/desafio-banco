@@ -4,11 +4,11 @@ Esse projeto consiste em um conjunto de features para serem implementadas por ca
 ### O desafio
 O desafio consiste em implementar os requisitos funcionais ou features de um banco digital fictício que contemple as operações de criação de novas contas, depósitos, saques e transferências entre contas.
 
-Será exigido do candito:
-1. Implementar uma API Rest baseada em Spring Boot utilizando Java 8 ou superior seguindo as melhores práticas de qualidade de código.
-2. Implementar (no mínimo uma das duas abaixo):
-2.1. Um conjunto de testes automáticos, que interaja com a API criada no item 1, utilizando o framework Cucumber e as metodológias de desenvolvimento guiado por teste TDD e BDD.
-2.2. Um gateway, que interaja com a API criada no item 1, utilizando a Angular.
+Será exigido do candidato: 
+1. Implementar uma API Rest baseada em Spring Boot utilizando Java 8 ou superior seguindo as melhores práticas de qualidade de código. 
+2. Implementar (no mínimo uma das duas abaixo): 
+* Um conjunto de testes automáticos, que interaja com a API criada no item 1, utilizando o framework Cucumber e as metodologias de desenvolvimento guiado por teste TDD e BDD. 
+* Um gateway, que interaja com a API criada no item 1, utilizando a Angular.
 
 Seguem os requisitos funcionais ou features:
 
