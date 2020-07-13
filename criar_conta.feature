@@ -1,6 +1,6 @@
 # language: pt
 
-Funcionalidade: Criar nova conta no banco Cast
+Funcionalidade: Criar nova conta no banco
 
     Cenário: 01 - Criação de conta com balanço menor que o limite
         Dado que seja solicitada a criação de uma nova conta com os seguintes valores
